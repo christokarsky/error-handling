@@ -26,6 +26,6 @@ function getCarColor(car) {
 
   // = Color unknown
 
-  console.log(getCarCOlor(car))
+  console.log(getCarCOlor(car));
 
   // = Bullet Grey
